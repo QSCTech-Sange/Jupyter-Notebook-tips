@@ -7,7 +7,7 @@ Keyboard Shortcuts Learning for Jupyter Notebook
 
 # 更多内容
 
-可以访问 [我的个人博客](https://qsctech-sange.github.io) 来查看更多精彩内容。 将仓库下载后，使用 Jupyter Notebook 打开 `Jupyter-Notebook-tips.ipynb` 来做练习。
+可以访问 [我的个人博客](https://qsctech-sange.github.io/jupyter-notebook-tips/) 来查看更多精彩内容。 将仓库下载后，使用 Jupyter Notebook 打开 `Jupyter-Notebook-tips.ipynb` 来做练习。
 
 
 
